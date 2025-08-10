@@ -1,11 +1,17 @@
 # AI-CHATBOT-WITH-NLP 
-# COMPANY:CODETECH IT SOLUTIONS 
-# NAME:TANISHA PAWAR 
-# DOMAIN: PYTHON
-# INTERN ID:CT04DH1794
-# DURATION: 4 WEEK
-# MENTOR: NEELA SANTOSH
-##  Here’s a simple `README.md` you can use for your GitHub repository:
+
+*COMPANY*: CODETECH IT SOLUTIONS 
+
+*NAME*: TANISHA  RAJENDRA PAWAR 
+
+*DOMAIN*: PYTHON PROGRAMMING
+
+*INTERN ID*: CTO4DH1794
+
+*DURATION*: 4 WEEK
+
+*MENTOR*: NEELA SANTOSH KUMAR
+
 
 ````markdown
 # Simple Python Chatbot using NLTK
@@ -83,3 +89,4 @@ This project is licensed under the MIT License.
 If you want, I can also make a **more polished GitHub-ready README** with badges, screenshots, and contribution guidelines. That would make your repo look professional.
 ```
 
+## OUTPUT
