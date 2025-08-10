@@ -90,3 +90,4 @@ If you want, I can also make a **more polished GitHub-ready README** with badges
 ```
 
 ## OUTPUT
+<img width="1477" height="341" alt="Image" src="https://github.com/user-attachments/assets/fed69e84-7dec-42db-9947-d5bcace1eed4" />
